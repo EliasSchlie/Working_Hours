@@ -1,8 +1,8 @@
-# Working_Hours
-In this repository I share how much I work every month (CSV from my time-tracking app)
+# Working Hours
 
-## January 2025
-- 316 hours and 39 minutes of focused work total = 10h12min/day (including weekends...)
+Monthly focused work hours exported as CSV from a time-tracking app.
 
-## February 2025
-- 298 hours and 19 minutes of focused work total = 10h39min/day (including weekends...)
+| Month | Total | Daily avg (incl. weekends) |
+|-------|-------|---------------------------|
+| Jan 2025 | 316h 39m | 10h 12m |
+| Feb 2025 | 298h 19m | 10h 39m |
